@@ -1,3 +1,6 @@
 [submodule "C/CCode"]
 	path = C/CCode
 	url = https://github.com/mtianyan/CCode.git
+[submodule "CPlusPlus/CPlusPlusCode"]
+	path = CPlusPlus/CPlusPlusCode
+	url = https://github.com/mtianyan/CPlusPlusCode.git
