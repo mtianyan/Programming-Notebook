@@ -2,7 +2,9 @@
 
 以前我们面向过程，现在我们面向对象。这是从盖小房子走向盖摩天大楼的第一步。
 
-面向对象 : 程序的稳定性 可扩展性 可重用性 都有非常大的优势。本次学习我们将学习如何通过java语言实现面向对象的三大特征: 继承 封装 多态; 编写具有面向对象思想的java程序。
+面向对象 : 程序的稳定性 可扩展性 可重用性 都有非常大的优势。
+
+本次学习我们将学习如何通过java语言实现面向对象的三大特征: 继承 封装 多态; 编写具有面向对象思想的java程序。
 
 ### 类和对象
 学习内容:
@@ -71,7 +73,7 @@ public class Cat {
 ```java
 package cn.mtianyan.animal;
 
-public class CarTest {
+public class CatTest {
 
     public static void main(String[] args) {
         Cat oneCat = new Cat();
@@ -177,7 +179,7 @@ oneCat.run(oneCat.name);
 ```java
 package cn.mtianyan.animal;
 
-public class CarTest {
+public class CatTest {
 
     public static void main(String[] args) {
         Cat oneCat = new Cat();
@@ -239,7 +241,7 @@ Cat twoCat=oneCat;
 ```java
 package cn.mtianyan.animal;
 
-public class CarTest {
+public class CatTest {
 
     public static void main(String[] args) {
         Cat oneCat = new Cat();
